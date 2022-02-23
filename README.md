@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keccak256HashBrownCasserole
 - 👀 I’m interested in crypto, geography, and software
-- 🌱 I’m currently learning Go, Solidity, and TypeScript
+- 🌱 I’m currently learning Solidity, TypeScript, and Node
 - 💞️ I’m looking to collaborate on web3 projects
 
 <!---
